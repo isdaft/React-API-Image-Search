@@ -1,6 +1,7 @@
 import './ImageList.css';
 import ImageCard from './ImageCard';
 import React from 'react';
+import 'semantic-ui-css/semantic.min.css';
 
 const ImageList = props => {
 	//console.log(props.images);
@@ -11,7 +12,10 @@ const ImageList = props => {
 		 );
 
 	})
-	return <div className="image-grid">{images}</div>;
+	return( 
+
+		<div className="image-grid">{images}</div>
+		);
 }
 
 export default ImageList;
