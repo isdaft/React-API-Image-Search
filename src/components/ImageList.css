@@ -1,8 +1,14 @@
+.ui.container{
+	height:100vh!important;
+
+}
+
 .image-grid {
 	display:grid;
 	grid-template-columns: repeat(auto-fill, minmax(250px, 1fr) );
 	grid-auto-rows:1px;
 	grid-gap:0px 10px;
+
 }
 .image-grid img{
 	/*width: 250px;*/
