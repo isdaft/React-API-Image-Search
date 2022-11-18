@@ -10,7 +10,7 @@
     "react-lazy-load": "^3.0.13",
     "react-lazyload": "^2.6.2",
     "react-native-lightbox": "^0.8.0",
-    "react-scripts": "3.0.1",
+    "react-scripts": "5.0.1",
     "semantic-ui-css": "^2.4.1",
     "semantic-ui-react": "^0.87.2",
     "yarn": "^1.16.0"
